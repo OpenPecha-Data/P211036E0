@@ -1,0 +1,42 @@
+id: P211036E0
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13319
+  instance_id: http://purl.bdrc.io/resource/IE3JT13319
+  collection_id: http://purl.bdrc.io/resource/PR0ET001
+  language_id: None
+  title:
+    bo:
+    - ཕྱག་ཆེན་རྒྱ་གཞུང་།
+  alt_title:
+    bo:
+    - ཕྱག་རྒྱ་ཆེན་པོའི་རྒྱ་གཞུང་།
+  author: None
+  publisher: DharmaDownload
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    1e8ce6bad33f48f2b30beef99285f611:
+      title: ཧཱུྂ༔ཕྱག་ཆེན་རྒྱ་གཞུང་གླེགས་བམ་གསུམ་པའི་དཀར་ཆག་བཞུགས་སོ།་།
+      volume_number: 3
+      base_file: UT3JT13319_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VLEE4D1A90600E5FFC
+      image_group: null
+      quality: null
+    fed756c9c08f4480b714c7f6faae5790:
+      title: ཨཱཿཕྱག་ཆེན་རྒྱ་གཞུང་གླེགས་བམ་གཉིས་པའི་དཀར་ཆག་བཞུགས་སོ།་།
+      volume_number: 2
+      base_file: UT3JT13319_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VL923FE827F1E34E85
+      image_group: null
+      quality: null
+    04535f49e80f4c04baf4db90d510e13d:
+      title: ཨོཾ།ཕྱག་ཆེན་རྒྱ་གཞུང་གླེགས་བམ་དང་པོའི་དཀར་ཆག་བཞུགས་སོ།་།
+      volume_number: 1
+      base_file: UT3JT13319_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL00843993C0207528
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-22T11:21:13.373940'
+last_modified_at: '2021-12-22T11:21:13.373945'
