@@ -40,3 +40,8 @@ source_metadata:
   reproductionOf: []
 created_at: '2021-12-22T11:21:13.373940'
 last_modified_at: '2021-12-22T11:21:13.373945'
+statistics:
+  total_words: 607461
+  total_non_words: 68297
+quality:
+  non_words_ratio: 0.11
